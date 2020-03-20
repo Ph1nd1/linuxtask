@@ -1,0 +1,15 @@
+/usr/lib/libreoffice/share/xpdfimport/xpdfimport_err.pdf
+/usr/share/cups/data/classified.pdf
+/usr/share/cups/data/confidential.pdf
+/usr/share/cups/data/default-testpage.pdf
+/usr/share/cups/data/default.pdf
+/usr/share/cups/data/form_english.pdf
+/usr/share/cups/data/form_russian.pdf
+/usr/share/cups/data/secret.pdf
+/usr/share/cups/data/standard.pdf
+/usr/share/cups/data/topsecret.pdf
+/usr/share/cups/data/unclassified.pdf
+/usr/share/doc/printer-driver-foo2zjs/manual.pdf
+/usr/share/doc/qpdf/qpdf-manual.pdf
+/usr/share/doc/shared-mime-info/shared-mime-info-spec.pdf
+/usr/share/mint-artwork/cups/default-testpage.pdf
